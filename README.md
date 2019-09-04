@@ -1,2 +1,2 @@
-# A_C-like_Language_Compiler
+# A C-like Language Compiler
 Build a compiler for C-- language with Bison and Flex
